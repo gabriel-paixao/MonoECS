@@ -1,10 +1,9 @@
-﻿using MonoECS;
-using MonoECS.Core;
+﻿using MonoECS.Core;
 using MonoECS.Extensions;
 using System;
 using System.Threading;
 
-namespace Example
+namespace MonoECS.Examples
 {
     internal class Program
     {

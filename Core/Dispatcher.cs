@@ -4,7 +4,7 @@ namespace MonoECS.Core
 {
     public class Dispatcher
     {
-        private List<ISystem> systems = new List<ISystem>();
+        private List<ISystem> systems = new();
 
         public void AddSystem(ISystem system)
         {

@@ -28,5 +28,4 @@ namespace MonoECS.Core
             return entity;
         }
     }
-
 }

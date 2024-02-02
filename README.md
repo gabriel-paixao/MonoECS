@@ -169,4 +169,4 @@ namespace Example
 }
 ```
 
-Please look into [the example directory](Example) for more.
+Please look into [the examples directory](Examples) for more.
