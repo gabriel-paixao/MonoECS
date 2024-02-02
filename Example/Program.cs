@@ -1,11 +1,4 @@
-# MonoECS
-ECS system designed to be integrated with Monogame
-MonoECS is an Entity-Component System written in C#.
-It was designed to be integrated with Monogame, but can actually be integrated with anything really.
-
-## Example
-```csharp
-using MonoECS;
+﻿using MonoECS;
 using MonoECS.Core;
 using MonoECS.Extensions;
 using System;
@@ -162,6 +155,3 @@ namespace Example
         }
     }
 }
-```
-
-Please look into [the example directory](example) for more.
