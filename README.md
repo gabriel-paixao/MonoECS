@@ -2,6 +2,11 @@
 ECS system designed to be integrated with Monogame
 MonoECS is an Entity-Component System written in C#.
 It was designed to be integrated with Monogame, but can actually be integrated with anything really.
+It's loosely based on https://github.com/amethyst/specs/tree/master
+
+I created this to be able to follow this Roguelike tutorial https://bfnightly.bracketproductions.com/rustbook/chapter_1.html
+
+I'll be improving this framework as I go along with the tutorial.
 
 ## Example
 ```csharp
